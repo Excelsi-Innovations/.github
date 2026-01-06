@@ -67,5 +67,5 @@ Atualmente, as contribuições externas estão focadas no nosso ecossistema open
 
 ---
 <p align="center">
-  <i>Excelsi Innovations — Engineering excellence with a touch of art.</i>
+  <i>Excelsi Innovations — Nós fazemos o futuro.</i>
 </p>
